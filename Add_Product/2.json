@@ -1,0 +1,11 @@
+{
+    "blockid": 2,
+    "name": "icecream2",
+    "temprature": "11",
+    "price": "2562",
+    "brand": "amul",
+    "addby": "Employee",
+    "status": "Mined",
+    "prevhash": "f3af4297a58d2c0001de841cf85a0dda56dcbdc7ef5ad3f4585b8dd80b943e64",
+    "hash": "fa53fee6aeecacf81f81ed0f3727b30d0deefa310c3110c0169eef7b3c0578eb"
+}

@@ -1,0 +1,29 @@
+{
+    "prodname": "icecream1",
+    "role": "raw supplier",
+    "status": "sent",
+    "temperature": "18",
+    "location": "kandivali",
+    "timestamp": "2023-10-12 10:15:46.535267"
+}
+{
+    "role": "Manufacturer",
+    "status": "sent",
+    "temperature": "26",
+    "location": "Goregaob",
+    "timestamp": "2023-10-12 10:16:28.759958"
+}
+{
+    "role": "Supplier",
+    "status": "sent",
+    "temperature": "27",
+    "location": "malad",
+    "timestamp": "2023-10-12 10:16:59.115201"
+}
+{
+    "role": "Retailer",
+    "status": "received",
+    "temperature": "32",
+    "location": "Dadar",
+    "timestamp": "2023-10-12 10:17:26.163345"
+}
